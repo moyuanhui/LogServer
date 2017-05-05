@@ -1,0 +1,8 @@
+E:\sanxianghe\trunk\LogServer\Common\bin\Release\LogServer.Common.dll
+E:\sanxianghe\trunk\LogServer\Common\bin\Release\LogServer.Common.pdb
+E:\sanxianghe\trunk\LogServer\Common\bin\Release\log4net.dll
+E:\sanxianghe\trunk\LogServer\Common\bin\Release\Newtonsoft.Json.dll
+E:\sanxianghe\trunk\LogServer\Common\bin\Release\log4net.xml
+E:\sanxianghe\trunk\LogServer\Common\bin\Release\Newtonsoft.Json.xml
+E:\sanxianghe\trunk\LogServer\Common\obj\Release\LogServer.Common.dll
+E:\sanxianghe\trunk\LogServer\Common\obj\Release\LogServer.Common.pdb

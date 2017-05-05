@@ -1,0 +1,4 @@
+E:\sanxianghe\trunk\LogServer\Model\bin\Release\LogServer.Model.dll
+E:\sanxianghe\trunk\LogServer\Model\bin\Release\LogServer.Model.pdb
+E:\sanxianghe\trunk\LogServer\Model\obj\Release\LogServer.Model.dll
+E:\sanxianghe\trunk\LogServer\Model\obj\Release\LogServer.Model.pdb
